@@ -1,6 +1,6 @@
 # A high-bandwidth dual-channel olfactory stimulator for studying temporal sensitivity of olfactory processing 
 ## Description
-This repository contains files associated to the publication [_A high-bandwidth dual-channel olfactory stimulator for studying temporal sensitivity of olfactory processing_](http://chemse.oxfordjournals.org/cgi/content/full/bjw114?ijkey=n8vzK1G8Lyrwqqs&keytype=ref ), Georg Raiser, C.Giovanni Galizia and Paul Szyszka, Chemical Senses 2016, doi: 10.1093/chemse/bjw114 
+This repository contains files associated to the publication [_A high-bandwidth dual-channel olfactory stimulator for studying temporal sensitivity of olfactory processing_](https://academic.oup.com/chemse/article/42/2/141/2709444), Georg Raiser, C.Giovanni Galizia and Paul Szyszka, Chemical Senses 2016, doi: 10.1093/chemse/bjw114 
 
 The files contain the technical information for the construction of the olfactory stimulator that we have developed.
 
